@@ -47,7 +47,7 @@
     "@types/react-relay": "^14.1.4",
     "@typescript-eslint/eslint-plugin": "^6.2.1",
     "babel-plugin-relay": "^15.0.0",
-    "relay-compiler": "^15.0.0",
+    "relay-compiler": "^16.2.0",
     "relay-config": "^12.0.1",
     "tailwind-merge": "^1.14.0",
     "tailwindcss-animate": "^1.0.6",
