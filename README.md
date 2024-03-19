@@ -1,9 +1,5 @@
 
 
-<div align="center">
-<img src="https://cdn.discordapp.com/attachments/859483678082072616/1138843309364756480/sNeHufT.png" alt="project stack">
-</div>
-
 
 ## Fullstack relay
 
@@ -24,21 +20,21 @@ Project that simulates a scheduling control panel for a graphic. Where can you m
 ### Screens:
 
 - Dashboard: 
-   ![image](https://github.com/Thiago-Mota-Santos/fullstack-relay/assets/75326612/1e56185d-9914-426e-a516-cd13179af19a)
+   ![image](https://github.com/haroshinakamura121/schedule_manager/assets/75326612/1e56185d-9914-426e-a516-cd13179af19a)
 
 - Appointment List:
-   ![image](https://github.com/Thiago-Mota-Santos/fullstack-relay/assets/75326612/e80ef6c1-fbed-483a-8932-2d5585b772d6)
+   ![image](https://github.com/haroshinakamura121/schedule_manager/assets/75326612/e80ef6c1-fbed-483a-8932-2d5585b772d6)
   
 ## Application
 
  - SignIn
-   ![image](https://github.com/Thiago-Mota-Santos/fullstack-relay/assets/75326612/2da2b467-07e1-49a0-b55c-1b8e22a1d0ba)
+   ![image](https://github.com/haroshinakamura121/schedule_manager/assets/75326612/2da2b467-07e1-49a0-b55c-1b8e22a1d0ba)
  - SignOut
-   ![image](https://github.com/Thiago-Mota-Santos/fullstack-relay/assets/75326612/8e82ce5a-d64f-4e45-a88d-34ca0c89c84c)
+   ![image](https://github.com/haroshinakamura121/schedule_manager/assets/75326612/8e82ce5a-d64f-4e45-a88d-34ca0c89c84c)
  - Appointment screens:
-   ![image](https://github.com/Thiago-Mota-Santos/fullstack-relay/assets/75326612/d8c4dd53-59a0-4be5-b2cb-8e6666effad8)
-   ![image](https://github.com/Thiago-Mota-Santos/fullstack-relay/assets/75326612/a8b057dc-adcc-45c7-b878-87ee842024a2)
-   ![image](https://github.com/Thiago-Mota-Santos/fullstack-relay/assets/75326612/ce591ba9-dc81-4e34-8498-8caf3db932a1)
+   ![image](https://github.com/haroshinakamura121/schedule_manager/assets/75326612/d8c4dd53-59a0-4be5-b2cb-8e6666effad8)
+   ![image](https://github.com/haroshinakamura121/schedule_manager/assets/75326612/a8b057dc-adcc-45c7-b878-87ee842024a2)
+   ![image](https://github.com/haroshinakamura121/schedule_manager/assets/75326612/ce591ba9-dc81-4e34-8498-8caf3db932a1)
 
 
 ### How to use
@@ -61,7 +57,7 @@ Project that simulates a scheduling control panel for a graphic. Where can you m
 Clone the repo
 
 ```sh
-git clone https://github.com/Thiago-Mota-Santos/fullstack-relay.git
+git clone https://github.com/haroshinakamura121/schedule_manager.git
 ```
 1.Install packages
    ```sh
