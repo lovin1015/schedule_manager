@@ -42,7 +42,7 @@
   "devDependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^14.0.0",
-    "@testing-library/user-event": "^14.4.3",
+    "@testing-library/user-event": "^14.5.2",
     "@types/cookies": "^0.7.7",
     "@types/react-relay": "^14.1.4",
     "@typescript-eslint/eslint-plugin": "^6.2.1",
