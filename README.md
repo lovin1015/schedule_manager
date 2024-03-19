@@ -93,10 +93,5 @@ Back:
 
 Feel free to contribute to the project!
 
-## Social medias
-<br />
-<a href="https://www.linkedin.com/in/thiago-mota-907970251/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="https://twitter.com/Thzinhdev" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
